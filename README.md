@@ -3,7 +3,9 @@
 
 - 🔭 I’m currently working on [PcTools](https://github.com/ihabfallahy2/PcTools-Proyect)
 
-- 🌱 I’m currently learning **Symfony,Angular**
+-📝 My personal portfolio on [ihab-portfolio](https://ihab-fa-portfolio.netlify.app/)
+
+- 🌱 I’m currently learning **Laravel && Angular**
 
 - 📫 How to reach me **ihabfallahy@gmail.com**
 
