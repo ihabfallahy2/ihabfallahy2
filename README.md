@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [PcTools](https://github.com/ihabfallahy2/PcTools-Proyect)
 
-- 📝 My personal portfolio on [ihab-portfolio](https://ihab-fa-portfolio.netlify.app/)
+- 📝 My personal portfolio on [ihab-portfolio](https://ihab-portfolio.netlify.app/)
 
 - 🌱 I’m currently learning **Laravel && Angular**
 
