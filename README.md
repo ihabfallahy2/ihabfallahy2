@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, me llamo Ihab Fallahy Aallam y soy un desarrollador de aplicaciones web</h1>
+<h1 align="center">Hola 👋, me llamo Ihab Fallahy Aallam y soy un desarrollador de Software</h1>
 
 ![](https://github-readme-stats.vercel.app/api?username=ihabfallahy2&count_private=true&show_icons=true&theme=dracula)
 
