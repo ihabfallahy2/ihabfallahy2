@@ -9,7 +9,7 @@
 
 <h3 align="left">Current project I am developing:</h3>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ihabfallahy2&repo=Islam-View)](https://github.com/ihabfallahy2/Islam-View)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ihabfallahy2&repo=dynamoss)](https://github.com/ihabfallahy2/dynamoss)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
