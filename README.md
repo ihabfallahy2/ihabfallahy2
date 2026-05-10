@@ -70,10 +70,8 @@ Aplicación web que muestra el tiempo meteorológico global y los horarios de or
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ihabfallahy2&count_private=true&show_icons=true&theme=dracula&hide_border=true&rank_icon=github" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihabfallahy2&layout=compact&theme=dracula&hide_border=true&exclude_repo=configs,perf-one,despliegue-web,interfaces" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ihabfallahy2&theme=dracula" alt="Repos per Language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ihabfallahy2&theme=dracula" alt="Stats"/>
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=ihabfallahy2&theme=dracula&hide_border=true" alt="GitHub Streak" />
